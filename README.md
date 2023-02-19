@@ -1,0 +1,2 @@
+# Authentication -secrets app
+Using {EJS, JS , NODE.JS , EXPRESS.JS , MONGODB, MONGOOSE, MONGOOSE-ENCRYPTION, BOOTSTRAP}
